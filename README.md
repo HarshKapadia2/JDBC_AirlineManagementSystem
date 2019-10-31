@@ -9,4 +9,4 @@ An easy mini JDBC project using Netbeans IDE (Java) and MySQL
 
 -Note: This is a very small and basic project and not as properly debugged as the Library Management System project in this account.
 
--PS: Please let me know if you find any bugs.
+- Please let me know if you find any bugs.
