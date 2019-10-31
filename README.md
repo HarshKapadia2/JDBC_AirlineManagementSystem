@@ -1,4 +1,4 @@
-# JDBC_AirlineManagementSystem
+# JDBC AirlineManagementSystem
 An easy mini JDBC project using Netbeans IDE (Java) and MySQL
 
 ## Instructions
