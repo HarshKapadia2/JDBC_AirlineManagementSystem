@@ -244,5 +244,5 @@ public class LoginSignup extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel3;
     private javax.swing.JPasswordField jPasswordField1;
     private javax.swing.JTextField jTextField1;
-    // End of variables declaration//GEN-END:variables
+    
 }
