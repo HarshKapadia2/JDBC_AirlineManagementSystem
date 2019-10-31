@@ -22,7 +22,7 @@ public class UpdateFlight extends javax.swing.JFrame {
     int flight_no;
     String arrival_airport;
 
-    /**
+    /*
      * Creates new form UpdateFlight
      */
     public UpdateFlight() {
